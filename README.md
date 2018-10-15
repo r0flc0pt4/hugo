@@ -116,7 +116,7 @@ If you are unfamiliar with the contribution process, the Hugo team will help you
 
 For a complete guide to contributing code to Hugo, see the [Contribution Guide](CONTRIBUTING.md).
 
-[![Analytics](https://ga-beacon.appspot.com/UA-7131036-6/hugo/readme)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-7131036-6/hugo/readme)](https://github.com/igrigorik/ga-beacon) [![GuardRails badge](https://badges.production.guardrails.io/r0flc0pt4/hugo.svg)](https://www.guardrails.io)
 
 [Go]: https://golang.org/
 [Hugo Documentation]: https://gohugo.io/overview/introduction/
